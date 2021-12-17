@@ -1,3 +1,7 @@
+<DOCKTYPE html>
+  <html lang = "en">
+  </html>
+
 - 👋 Hi, I’m @SetupMrs
 - 👀 I’m interested in frontend-developer;
 - 🌱 I’m currently learning in home, coursera;
